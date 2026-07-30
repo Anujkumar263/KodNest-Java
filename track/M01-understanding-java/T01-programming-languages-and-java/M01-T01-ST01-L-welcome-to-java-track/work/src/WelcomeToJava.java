@@ -7,5 +7,6 @@ public class WelcomeToJava {
         System.out.println("Now i am learning how to express that logic using java");
         System.out.println("Anuj kumar");
         System.out.println("i am excited to learn java");
+        System.out.println("java is fun!");
     }
 }
