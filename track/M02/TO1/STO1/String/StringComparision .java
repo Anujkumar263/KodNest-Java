@@ -1,5 +1,5 @@
 
-public class StringComparision {
+public class StringCompagitrision {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
